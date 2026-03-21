@@ -16,6 +16,8 @@ This is a direct port of the battle background mod originally created by **Mint 
 
 Total of 18 differents battle backgrounds, including time variations.
 
+#### - Coming soon...
+
 ## How to Apply
 
 You will need:
