@@ -12,6 +12,8 @@ Replaces the default battle backgrounds in the English version of Pokémon Heart
 
 This is a direct port of the battle background mod originally created by **Mint Chok** for the Korean version of HeartGold. All credit for the artwork and original implementation goes to them — I only adapted the patch to work with the English ROM.
 
+![Alt text](assets/MintChokBattleBackground.png)
+
 #### How to Apply
 
 You will need:
