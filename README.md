@@ -6,7 +6,7 @@ A collection of patches for **Pokémon HeartGold (English)** ported from other R
 
 ## 📦 Patches
 
-### - [Battle Backgrounds](BattleBackgroundsByMintChok(en).xdelta) — by MintChok, English Port
+#### - [Battle Backgrounds](BattleBackgroundsByMintChok(en).xdelta) — by MintChok, English Port
 
 Replaces the default battle backgrounds in the English version of Pokémon HeartGold with custom pixel art battle backgrounds.
 
@@ -16,7 +16,7 @@ This is a direct port of the battle background mod originally created by **Mint 
 
 Total of 18 differents battle backgrounds, including time variations.
 
-#### How to Apply
+## How to Apply
 
 You will need:
 - An **xdelta patcher** (e.g. [xdeltaUI](https://www.romhacking.net/utilities/704/) on Windows, or `xdelta3` on Linux/macOS)
