@@ -36,12 +36,6 @@ You will need:
 xdelta3 -d -s original.nds battleBG_patch.xdelta output.nds
 ```
 
----
-
-If you share or build upon these patches, please credit their Author(s) accordingly.
-
----
-
 ## 📄 Disclaimer
 
 This repository contains only patch files (`.xdelta`). No ROM files are included or distributed. You must supply your own legally obtained copy of Pokémon HeartGold.
