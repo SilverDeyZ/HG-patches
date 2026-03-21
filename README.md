@@ -38,14 +38,7 @@ xdelta3 -d -s original.nds battleBG_patch.xdelta output.nds
 
 ---
 
-## ⚖️ Credits
-
-| Role | Credit |
-|------|--------|
-| Original battle background mod | **Mint Chok** (Korean HeartGold mod) |
-| English port | This repository |
-
-This patch would not exist without Mint Chok's original work. If you share or build upon this patch, please credit them accordingly.
+If you share or build upon these patches, please credit their Author(s) accordingly.
 
 ---
 
