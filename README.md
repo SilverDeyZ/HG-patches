@@ -6,7 +6,7 @@ A collection of patches for **Pokémon HeartGold (English)** ported from other R
 
 ## 📦 Patches
 
-### - Battle Backgrounds — English Port
+### - [Battle Backgrounds](Mint Chok Battle Backgrounds EN.xdelta) — English Port
 
 Replaces the default battle backgrounds in the English version of Pokémon HeartGold with custom pixel art battle backgrounds.
 
