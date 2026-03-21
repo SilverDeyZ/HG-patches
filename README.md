@@ -10,7 +10,7 @@ A collection of patches for **Pokémon HeartGold (English)** ported from other R
 
 Replaces the default battle backgrounds in the English version of Pokémon HeartGold with custom pixel art battle backgrounds.
 
-This is a direct port of the battle background mod originally created by **Mint Chok** for the Korean version of HeartGold. All credit for the artwork and original implementation goes to them — I only adapted the patch to work with the English ROM.
+This is a direct port of the battle background mod originally created by **Mint Chok** for the Korean version of HeartGold. All credit for the artwork and original implementation goes to them. I only adapted the patch to work with the English ROM.
 
 ![Alt text](assets/MintChokBattleBackground.png)
 
