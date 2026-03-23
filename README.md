@@ -1,6 +1,6 @@
 # HG-Patches 📦
 
-A collection of patches for **Pokémon HeartGold (English)** ported from other ROM hacks and regional versions.
+A collection of patches for **Pokémon HeartGold (English)**
 ---
 
 ### - [Battle Backgrounds](BattleBackgroundsByMintChok(en).xdelta) by MintChok, English Port
